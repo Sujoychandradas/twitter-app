@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "299367473108",
+    "project_id": "fir-twitter-b3862",
+    "storage_bucket": "fir-twitter-b3862.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299367473108:android:304c59ac6d73f8b1c50041",
+        "android_client_info": {
+          "package_name": "com.example.twitter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299367473108-cu3e4q9aicc4n3tibaue6o0j5h96ei1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOcwK9WDn-l3QezIeEHltO3QwJBewlPAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299367473108-cu3e4q9aicc4n3tibaue6o0j5h96ei1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
